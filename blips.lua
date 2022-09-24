@@ -1,5 +1,5 @@
 local blips = {
-    -- Example {title="", colour=, id=, x=, y=, z=},
+    -- Example {title="", colour=, id=, x=, y=, z=}, --https://docs.fivem.net/docs/game-references/blips/
 
 
    	{title="Pacific Bank", colour=30, id=108, x = 260.130, y = 204.308, z = 109.287},
