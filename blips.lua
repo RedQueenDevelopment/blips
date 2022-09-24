@@ -1,17 +1,15 @@
 local blips = {
     -- Example {title="", colour=, id=, x=, y=, z=},
 
-   {title="Nightwing Garage", colour=1, id=446, x = 152.53, y = -3033.16, z = 6.64},
-   {title="Pacific Bank", colour=30, id=108, x = 260.130, y = 204.308, z = 109.287},
-	 --{title="Hookah Lounge", colour=48, id=118, x = -424.22, y = -23.82, z = 46.23},
-	 --{title="Cookies", colour=26, id=496, x = -941.39, y = -1180.91, z = 4.95},
-	 {title="Triad Records", colour=1, id=614, x = -827.56, y = -697.82, z = 28.06},
-  -- {title="Arcade", colour=43, id=84, x = -1648.761, y = -1084.628, z = 13.156},
-   --{title="Bowling", colour=43, id=146, x = 753.75, y = -778.08, z = 26.34},
-   {title="Pop's Diner", colour=53, id=608, x = 1576.90, y =  6451.104, z = 25.006},
-   {title="Interiors for Real Estate", colour=134, id=357, x = -912.98, y = -1301.97, z = 112.64},
-  -- {title="Carmeet", colour=58, id=121, x = 952.7775, y = -1700.9637, z = 29.7632},
-    {title="Fishing Gear", colour=53, id=608, x = -805.28, y =  -1496.02, z = 1.6},
+
+   	{title="Pacific Bank", colour=30, id=108, x = 260.130, y = 204.308, z = 109.287},
+	{title="Triad Records", colour=1, id=614, x = -827.56, y = -697.82, z = 28.06},
+  -- 	{title="Arcade", colour=43, id=84, x = -1648.761, y = -1084.628, z = 13.156},
+   --	{title="Bowling", colour=43, id=146, x = 753.75, y = -778.08, z = 26.34},
+  	{title="Pop's Diner", colour=53, id=608, x = 1576.90, y =  6451.104, z = 25.006},
+   	{title="Interiors for Real Estate", colour=134, id=357, x = -912.98, y = -1301.97, z = 112.64},
+  -- 	{title="Carmeet", colour=58, id=121, x = 952.7775, y = -1700.9637, z = 29.7632},
+	
 
   }
       
